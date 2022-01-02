@@ -1,3 +1,7 @@
+# Notes
+
+You may need to add `homepage: /repo-name` if you are hosting at a non-github root directory.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
